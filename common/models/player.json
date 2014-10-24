@@ -9,6 +9,9 @@
     "lastname": {
       "type": "string",
       "required": true
+    },
+    "position": {
+      "type": "string"
     }
   },
   "validations": [],

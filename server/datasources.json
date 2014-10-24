@@ -4,10 +4,10 @@
     "connector": "memory"
   },
   "mongo_dev": {
-    "name": "mongo_dev",
-    "connector": "mongodb",
     "database": "devDB",
     "username": "root",
-    "password": "root"
+    "password": "root",
+    "name": "mongo_dev",
+    "connector": "mongodb"
   }
 }
